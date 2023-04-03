@@ -21,7 +21,7 @@ you can run this app using yarn start command and can be used postman to test th
     
     "plateNo":"ABB-4579",
     
-    "owner":"Kavinda",
+    "owner":"Shammi",
     
     "manufacturer":"Tesla",
     
